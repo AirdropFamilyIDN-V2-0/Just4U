@@ -37,6 +37,9 @@ cd Just4U
 npm install axios crypto-js
 ```
 ```sh
+clear
+```
+```sh
 node index.js
 ```
 ```sh
