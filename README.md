@@ -6,7 +6,7 @@
 
 ## Features
 - Auto Tap
-- Claim Passive Eard
+- Claim Passive Earn
 - Daily Signin
 - Clear Task
 - Play Game
