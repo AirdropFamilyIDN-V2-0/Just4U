@@ -1,5 +1,5 @@
 # Just4U v1.0 Bot
-![image](https://github.com/user-attachments/assets/ef12d4e9-72f9-46b5-8a22-40525cc9bbf2)
+![image](https://github.com/user-attachments/assets/4efaa788-2d30-4a9b-b4d5-255ad029781d)
 
 ## Link Airdrop
 [Just4U](https://t.me/ForUAICryptoBot/app?startapp=0062533B)
@@ -38,6 +38,9 @@ npm install axios crypto-js
 ```
 ```sh
 node index.js
+```
+```sh
+Masukkan sandi: andraz
 ```
 ## Channel Telegram
 - [AirdropFamilyIDN](https://t.me/AirdropFamilyIDN)
